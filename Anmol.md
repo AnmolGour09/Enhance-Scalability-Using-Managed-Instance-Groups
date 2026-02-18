@@ -2,7 +2,7 @@
 
 <h3>🌟 Enhance Scalability Using Managed Instance Groups 🌟</h3>
 
-<div align="center">
+</div>
 
 
 ```
@@ -15,4 +15,4 @@ gcloud compute instance-groups managed create dev-instance-group --template=dev-
 
 <h3>🌟 Subscribe The Channel Google Cloud With Anmol  🌟</h3>
 
-<div align="center">
+</div>
